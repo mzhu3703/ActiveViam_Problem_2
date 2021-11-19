@@ -22,5 +22,6 @@ Steps I thought of and executed for calculating the Value at Risk for a portfoli
  <li>Get the percentile of the gains and losses of the portfolio based off the confidence value</li>
   <ol>
     <li>Method was used same as problem 1. Nearest rank formula was used. </li>
+    <li>This percentile is the Value at Risk for the portfolio</li>
  </ol>
 </ol>
